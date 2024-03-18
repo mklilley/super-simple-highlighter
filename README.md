@@ -4,6 +4,12 @@ Copyright 2014-2017 [Dexterous Logic](http://dexterouslogic.com)
 ## What is it?
 A Chrome extension for highlighting text, and automatically attempt to restore highlight on each page revisit.
 
+## THIS IS A FORK
+
+This is a fork of the original [Super Simple Highlighter](https://github.com/dexterouslogic/super-simple-highlighter). I made a small change (can be [viewed here](https://github.com/dexterouslogic/super-simple-highlighter/compare/master...mklilley:super-simple-highlighter:master)) which fixes a [problem](https://github.com/dexterouslogic/super-simple-highlighter/pull/17) when HTML IDs start with a number.
+
+---
+
 ## Installation
 Use the prepackaged version in the [app store](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio).
 
